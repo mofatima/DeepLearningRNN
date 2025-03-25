@@ -3,7 +3,7 @@
 # IMDB Movie Review Sentiment Analysis using SimpleRNN
 
 ## Overview
-This project implements a sentiment analysis model using a Simple Recurrent Neural Network (SimpleRNN). The model is trained on the IMDB dataset to classify movie reviews as either positive or negative. A Streamlit web app is provided for user interaction, allowing users to input a review and receive a sentiment prediction.
+In this project I have used a sentiment analysis model using a Simple Recurrent Neural Network (SimpleRNN). The model is trained on the IMDB dataset to classify movie reviews as either positive or negative. A Streamlit web app is provided for user interaction, allowing users to input a review and receive a sentiment prediction.
 
 ## Features
 - Uses TensorFlow/Keras for model training and inference
@@ -12,8 +12,6 @@ This project implements a sentiment analysis model using a Simple Recurrent Neur
 - Streamlit-based web interface for real-time sentiment classification
 
 ## Installation
-### Prerequisites
-Ensure you have Python installed. Recommended version: Python 3.8+
 
 ### Install dependencies
 ```bash
